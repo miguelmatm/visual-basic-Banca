@@ -1,0 +1,361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BancaOS
+</name>
+</assembly>
+<members>
+<member name="T:BancaOS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BancaOS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BancaOS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BancaOS.My.Resources.Resources.Captura_de_pantalla_2017_02_14_a_las_23_31_05">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.cc_opDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.cuentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.empresasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.operacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.transfperiodDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.cc_opRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.cuentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.empresasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.operacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.transfperiodRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.cc_opRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.cuentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.empresasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.operacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet.transfperiodRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.cc_opTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.cuentasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.empresasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.operacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.transfperiodTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BancaOS.bancaonlineDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BancaOS.bancaonlineDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BancaOS.bancaonlineDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager.UpdateAll(BancaOS.bancaonlineDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.cc_opDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.cuentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.empresasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.operacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.transfperiodDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.cc_opRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.cuentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.empresasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.operacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.transfperiodRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.cc_opRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.cuentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.empresasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.operacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1.transfperiodRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.cc_opTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.cuentasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.empresasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.operacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.transfperiodTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(BancaOS.bancaonlineDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(BancaOS.bancaonlineDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(BancaOS.bancaonlineDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager.UpdateAll(BancaOS.bancaonlineDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BancaOS.bancaonlineDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

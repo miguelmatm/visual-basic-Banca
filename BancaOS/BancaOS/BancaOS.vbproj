@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66B8FFBE-D224-442F-9CA5-9BC9798A3FB7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BancaOS.My.MyApplication</StartupObject>
+    <RootNamespace>BancaOS</RootNamespace>
+    <AssemblyName>BancaOS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BancaOS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BancaOS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.8\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActivarEmpresa.designer.vb">
+      <DependentUpon>ActivarEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActivarEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAccount.designer.vb">
+      <DependentUpon>AddAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnadirEmpresa.designer.vb">
+      <DependentUpon>AnadirEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AnadirEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BancaGestionMovimientos.designer.vb">
+      <DependentUpon>BancaGestionMovimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BancaGestionMovimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bancaonlineDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bancaonlineDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bancaonlineDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bancaonlineDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BancaPaginaInicio.Designer.vb">
+      <DependentUpon>BancaPaginaInicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BancaPaginaInicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseForm.Designer.vb">
+      <DependentUpon>BaseForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpresasMisCuentas.Designer.vb">
+      <DependentUpon>EmpresasMisCuentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmpresasMisCuentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpresasPaginaInicio.Designer.vb">
+      <DependentUpon>EmpresasPaginaInicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmpresasPaginaInicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FreeAccounts.designer.vb">
+      <DependentUpon>FreeAccounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FreeAccounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarCuentas.Designer.vb">
+      <DependentUpon>GestionarCuentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarCuentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarEmpresas.designer.vb">
+      <DependentUpon>GestionarEmpresas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarEmpresas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformacionCuenta.Designer.vb">
+      <DependentUpon>InformacionCuenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InformacionCuenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informe.Designer.vb">
+      <DependentUpon>informe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="informe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeCR.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InformeCR.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Login.designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarEmpresas.designer.vb">
+      <DependentUpon>ModificarEmpresas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarEmpresas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Register.designer.vb">
+      <DependentUpon>Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResestBalance.designer.vb">
+      <DependentUpon>ResestBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ResestBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="service\DataAccess.vb" />
+    <Compile Include="service\Util.vb" />
+    <Compile Include="TransferBusiness.designer.vb">
+      <DependentUpon>TransferBusiness.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransferBusiness.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transferencias.designer.vb">
+      <DependentUpon>Transferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ActivarEmpresa.resx">
+      <DependentUpon>ActivarEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAccount.resx">
+      <DependentUpon>AddAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnadirEmpresa.resx">
+      <DependentUpon>AnadirEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BancaGestionMovimientos.resx">
+      <DependentUpon>BancaGestionMovimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BancaPaginaInicio.resx">
+      <DependentUpon>BancaPaginaInicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseForm.resx">
+      <DependentUpon>BaseForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpresasMisCuentas.resx">
+      <DependentUpon>EmpresasMisCuentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpresasPaginaInicio.resx">
+      <DependentUpon>EmpresasPaginaInicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FreeAccounts.resx">
+      <DependentUpon>FreeAccounts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarCuentas.resx">
+      <DependentUpon>GestionarCuentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformacionCuenta.resx">
+      <DependentUpon>InformacionCuenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informe.resx">
+      <DependentUpon>informe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeCR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InformeCR.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarEmpresas.resx">
+      <DependentUpon>ModificarEmpresas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResestBalance.resx">
+      <DependentUpon>ResestBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransferBusiness.resx">
+      <DependentUpon>TransferBusiness.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transferencias.resx">
+      <DependentUpon>Transferencias.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bancaonlineDataSet.xsc">
+      <DependentUpon>bancaonlineDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bancaonlineDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bancaonlineDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bancaonlineDataSet.xss">
+      <DependentUpon>bancaonlineDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bancaonlineDataSet1.xsc">
+      <DependentUpon>bancaonlineDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bancaonlineDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bancaonlineDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bancaonlineDataSet1.xss">
+      <DependentUpon>bancaonlineDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2017-02-14 a las 23.31.05.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

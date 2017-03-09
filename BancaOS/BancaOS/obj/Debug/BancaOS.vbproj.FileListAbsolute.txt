@@ -1,0 +1,226 @@
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe.config
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.pdb
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.xml
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\FlashControlV71.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\MySql.Data.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\stdole.dll
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbprojResolveAssemblyReference.cache
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.BancaPaginaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasMisCuentas.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasPaginaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Home.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.InformacionCuenta.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.informe.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Resources.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbproj.GenerateResource.Cache
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.exe
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.xml
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.pdb
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.AddAccount.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.FreeAccounts.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.ResestBalance.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.TransferBusiness.resources
+C:\Users\migue\Desktop\Nueva carpeta\dani\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.GestionarCuentas.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe.config
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.exe
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.xml
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.pdb
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.AddAccount.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.BancaPaginaInicio.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresaInicio.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasMisCuentas.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasPaginaInicio.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.FreeAccounts.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.GestionarCuentas.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Home.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.InformacionCuenta.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.informe.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Resources.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.ResestBalance.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.TransferBusiness.resources
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.pdb
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.xml
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\FlashControlV71.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Desktop\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\stdole.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe.config
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.exe
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.xml
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.pdb
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.pdb
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.xml
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\FlashControlV71.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\MySql.Data.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\stdole.dll
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbprojResolveAssemblyReference.cache
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.AddAccount.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.BancaPaginaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasMisCuentas.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasPaginaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.FreeAccounts.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.GestionarCuentas.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Home.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.InformacionCuenta.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.informe.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Resources.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.ResestBalance.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.TransferBusiness.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbproj.GenerateResource.Cache
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.BancaGestionMovimientos.resources
+C:\Users\migue\Desktop\Nueva carpeta\borrar\visual version final 0.1\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Transferencias.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe.config
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.exe
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.xml
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.pdb
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.exe
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.pdb
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\BancaOS.xml
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\FlashControlV71.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.AddAccount.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.AnadirEmpresa.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.BancaGestionMovimientos.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.BancaPaginaInicio.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresaInicio.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasMisCuentas.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasPaginaInicio.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.FreeAccounts.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.GestionarCuentas.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Home.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.InformacionCuenta.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.informe.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Resources.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.ResestBalance.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.TransferBusiness.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Transferencias.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.ModificarEmpresas.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Login.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.Register.resources
+C:\Users\Usuario\Desktop\visual version final 0.4\bancasalesianos-banca-dbb8660cc33d\BancaOS\BancaOS\obj\Debug\BancaOS.ActivarEmpresa.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\BancaOS.exe.config
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\BancaOS.exe
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\BancaOS.pdb
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\BancaOS.xml
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\FlashControlV71.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\MySql.Data.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\bin\Debug\stdole.dll
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.vbprojResolveAssemblyReference.cache
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.ActivarEmpresa.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.AddAccount.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.AnadirEmpresa.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.BancaGestionMovimientos.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.BancaPaginaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasMisCuentas.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.EmpresasPaginaInicio.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.FreeAccounts.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.GestionarCuentas.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.Home.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.InformacionCuenta.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.informe.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.Login.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.ModificarEmpresas.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.Resources.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.Register.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.ResestBalance.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.TransferBusiness.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.Transferencias.resources
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.vbproj.GenerateResource.Cache
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.exe
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.xml
+C:\Users\migue\Desktop\Nueva carpeta\visual version final v5\BancaOS\BancaOS\obj\Debug\BancaOS.pdb
